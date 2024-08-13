@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a software developer from Ukraine. <br><br><br>- 🔭 I primarily focus on frontend development, using HTML, CSS, and JavaScript to create user-friendly and functional web applications. <br><br>- 👨🏻‍💻 I have experience collaborating on complex projects and have honed my skills in modern web technologies. I am passionate about continuous learning and improving my craft to ensure that my work is polished and efficient. <br><br><br>- 📚 Currently, I am learning the React framework.</p>
+<p align="left">I am a software developer from Ukraine. <br>- 🔭 I primarily focus on frontend development, using HTML, CSS, and JavaScript to create user-friendly and functional web applications. <br>- 👨🏻‍💻 I have experience collaborating on complex projects and have honed my skills in modern web technologies. I am passionate about continuous learning and improving my craft to ensure that my work is polished and efficient. <br>- 📚 Currently, I am learning the React framework.</p>
 
 ###
 
@@ -25,13 +25,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -51,13 +47,9 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GYaskey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
