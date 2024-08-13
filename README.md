@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a software developer from Ukraine. <br>- 🔭 I primarily focus on frontend development, using HTML, CSS, and JavaScript to create user-friendly and functional web applications. <br>- 👨🏻‍💻 I have experience collaborating on complex projects and have honed my skills in modern web technologies. I am passionate about continuous learning and improving my craft to ensure that my work is polished and efficient. <br>- 📚 Currently, I am learning the React framework.</p>
+<p align="left">I am a software developer from Ukraine. <br><br>- 🔭 I primarily focus on frontend development, using HTML, CSS, and JavaScript to create user-friendly and functional web applications. <br><br>- 👨🏻‍💻 I have experience collaborating on complex projects and have honed my skills in modern web technologies. I am passionate about continuous learning and improving my craft to ensure that my work is polished and efficient. <br><br>- 📚 Currently, I am learning the React framework.</p>
 
 ###
 
@@ -24,6 +24,9 @@
 </div>
 
 ###
+
+
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -46,6 +49,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🔥   My Stats :</h3>
 
