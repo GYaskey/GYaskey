@@ -1,8 +1,6 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Gleb!</h1>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -12,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a software developer from Ukraine.<br><br>- 🔭 I focus on frontend development, leveraging HTML, CSS, and JavaScript to create user-friendly and functional web applications. <br><br>- 👨🏻‍💻 My experience includes collaborating on complex projects, where I've honed my skills in modern web technologies. I'm passionate about continuous learning and improving my craft, ensuring my work is polished and efficient.<br><br>- 📚 I'm currently learning the React framework.</p>
+<p align="left">I am a software developer from Ukraine. <br><br><br>- 🔭 I primarily focus on frontend development, using HTML, CSS, and JavaScript to create user-friendly and functional web applications. <br><br>- 👨🏻‍💻 I have experience collaborating on complex projects and have honed my skills in modern web technologies. I am passionate about continuous learning and improving my craft to ensure that my work is polished and efficient. <br><br><br>- 📚 Currently, I am learning the React framework.</p>
 
 ###
 
@@ -62,14 +60,12 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GYaskey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="195" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GYaskey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="195" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GYaskey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GYaskey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GYaskey.GYaskey&"  />
+<img src="https://raw.githubusercontent.com/GYaskey/GYaskey/output/snake.svg" alt="Snake animation" />
 
 ###
